@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/samlondhe0007/Leetcodes/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samlondhe0007/Leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/samlondhe0007/Leetcodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/samlondhe0007/Leetcodes/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/samlondhe0007/Leetcodes/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/samlondhe0007/Leetcodes/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/samlondhe0007/Leetcodes/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -91,4 +93,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/samlondhe0007/Leetcodes/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/samlondhe0007/Leetcodes/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->

@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/samlondhe0007/Leetcodes/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/samlondhe0007/Leetcodes/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/samlondhe0007/Leetcodes/tree/master/0334-increasing-triplet-subsequence) |
+| [0704-binary-search](https://github.com/samlondhe0007/Leetcodes/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/samlondhe0007/Leetcodes/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/samlondhe0007/Leetcodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/samlondhe0007/Leetcodes/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/samlondhe0007/Leetcodes/tree/master/0704-binary-search) |
 ## Newton's Method
 |  |
 | ------- |

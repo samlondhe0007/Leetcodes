@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/samlondhe0007/Leetcodes/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/samlondhe0007/Leetcodes/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/samlondhe0007/Leetcodes/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/samlondhe0007/Leetcodes/tree/master/0334-increasing-triplet-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -105,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/samlondhe0007/Leetcodes/tree/master/0268-missing-number) |
+## Greedy
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/samlondhe0007/Leetcodes/tree/master/0334-increasing-triplet-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/samlondhe0007/Leetcodes/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->

@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/samlondhe0007/Leetcodes/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/samlondhe0007/Leetcodes/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/samlondhe0007/Leetcodes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samlondhe0007/Leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Dynamic Programming
 |  |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/samlondhe0007/Leetcodes/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/samlondhe0007/Leetcodes/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->

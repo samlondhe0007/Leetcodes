@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/samlondhe0007/Leetcodes/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1051-height-checker](https://github.com/samlondhe0007/Leetcodes/tree/master/1051-height-checker) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/samlondhe0007/Leetcodes/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/samlondhe0007/Leetcodes/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/samlondhe0007/Leetcodes/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/samlondhe0007/Leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/samlondhe0007/Leetcodes/tree/master/0704-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/samlondhe0007/Leetcodes/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Newton's Method
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/samlondhe0007/Leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/samlondhe0007/Leetcodes/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1051-height-checker](https://github.com/samlondhe0007/Leetcodes/tree/master/1051-height-checker) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/samlondhe0007/Leetcodes/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |

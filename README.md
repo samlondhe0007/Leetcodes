@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/samlondhe0007/Leetcodes/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1051-height-checker](https://github.com/samlondhe0007/Leetcodes/tree/master/1051-height-checker) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/samlondhe0007/Leetcodes/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/samlondhe0007/Leetcodes/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/samlondhe0007/Leetcodes/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Dynamic Programming
 |  |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/samlondhe0007/Leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/samlondhe0007/Leetcodes/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1051-height-checker](https://github.com/samlondhe0007/Leetcodes/tree/master/1051-height-checker) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/samlondhe0007/Leetcodes/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/samlondhe0007/Leetcodes/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/samlondhe0007/Leetcodes/tree/master/0075-sort-colors) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/samlondhe0007/Leetcodes/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Bubble Sort
 |  |
 | ------- |

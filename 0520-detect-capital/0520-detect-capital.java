@@ -1,19 +1,29 @@
 class Solution {
     public boolean detectCapitalUse(String word) {
 
-        if (word.equals(word.toUpperCase())){
-            return true ;
+        int upper = 0;
+
+        for (int i = 0; i < word.length(); i++) {
+            if (Character.isUpperCase(word.charAt(i))) {
+                upper++;
+            }
         }
-        if (word.equals(word.toLowerCase())){
-            return true ;
-        }
-        if (Character.isUpperCase(word.charAt(0)) 
-            && word.substring(1).equals(word.substring (1).toLowerCase())){
+
+        // All uppercase
+        if (upper == word.length()) {
             return true;
         }
 
-        else{
-            return false;
+        // All lowercase
+        if (upper == 0) {
+            return true;
         }
+
+        // Only first letter uppercase
+        if (upper == 1 && Character.isUpperCase(word.charAt(0))) {
+            return true;
+        }
+
+        return false;
     }
 }

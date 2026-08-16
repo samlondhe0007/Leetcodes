@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/samlondhe0007/Leetcodes/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/samlondhe0007/Leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/samlondhe0007/Leetcodes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/samlondhe0007/Leetcodes/tree/master/0594-longest-harmonious-subsequence) |
 | [0704-binary-search](https://github.com/samlondhe0007/Leetcodes/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/samlondhe0007/Leetcodes/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1051-height-checker](https://github.com/samlondhe0007/Leetcodes/tree/master/1051-height-checker) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/samlondhe0007/Leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/samlondhe0007/Leetcodes/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/samlondhe0007/Leetcodes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/samlondhe0007/Leetcodes/tree/master/0594-longest-harmonious-subsequence) |
 | [0771-jewels-and-stones](https://github.com/samlondhe0007/Leetcodes/tree/master/0771-jewels-and-stones) |
 ## Math
 |  |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/samlondhe0007/Leetcodes/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/samlondhe0007/Leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/samlondhe0007/Leetcodes/tree/master/0389-find-the-difference) |
+| [0594-longest-harmonious-subsequence](https://github.com/samlondhe0007/Leetcodes/tree/master/0594-longest-harmonious-subsequence) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/samlondhe0007/Leetcodes/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1051-height-checker](https://github.com/samlondhe0007/Leetcodes/tree/master/1051-height-checker) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/samlondhe0007/Leetcodes/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/samlondhe0007/Leetcodes/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/samlondhe0007/Leetcodes/tree/master/0594-longest-harmonious-subsequence) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/samlondhe0007/Leetcodes/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -242,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/samlondhe0007/Leetcodes/tree/master/0141-linked-list-cycle) |
+## Sliding Window
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/samlondhe0007/Leetcodes/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->

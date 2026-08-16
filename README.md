@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/samlondhe0007/Leetcodes/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/samlondhe0007/Leetcodes/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/samlondhe0007/Leetcodes/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/samlondhe0007/Leetcodes/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/samlondhe0007/Leetcodes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/samlondhe0007/Leetcodes/tree/master/0771-jewels-and-stones) |
 ## Math
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/samlondhe0007/Leetcodes/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/samlondhe0007/Leetcodes/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/samlondhe0007/Leetcodes/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/samlondhe0007/Leetcodes/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/samlondhe0007/Leetcodes/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/samlondhe0007/Leetcodes/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/samlondhe0007/Leetcodes/tree/master/0520-detect-capital) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/samlondhe0007/Leetcodes/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/samlondhe0007/Leetcodes/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/samlondhe0007/Leetcodes/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/samlondhe0007/Leetcodes/tree/master/0389-find-the-difference) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/samlondhe0007/Leetcodes/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1051-height-checker](https://github.com/samlondhe0007/Leetcodes/tree/master/1051-height-checker) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/samlondhe0007/Leetcodes/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/samlondhe0007/Leetcodes/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/samlondhe0007/Leetcodes/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/samlondhe0007/Leetcodes/tree/master/0389-find-the-difference) |
 ## Greedy
 |  |
 | ------- |

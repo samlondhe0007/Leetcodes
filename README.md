@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/samlondhe0007/Leetcodes/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1051-height-checker](https://github.com/samlondhe0007/Leetcodes/tree/master/1051-height-checker) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/samlondhe0007/Leetcodes/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/samlondhe0007/Leetcodes/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/samlondhe0007/Leetcodes/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/samlondhe0007/Leetcodes/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/samlondhe0007/Leetcodes/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/samlondhe0007/Leetcodes/tree/master/0594-longest-harmonious-subsequence) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/samlondhe0007/Leetcodes/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1051-height-checker](https://github.com/samlondhe0007/Leetcodes/tree/master/1051-height-checker) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/samlondhe0007/Leetcodes/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/samlondhe0007/Leetcodes/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/samlondhe0007/Leetcodes/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation

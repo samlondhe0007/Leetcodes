@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/samlondhe0007/Leetcodes/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/samlondhe0007/Leetcodes/tree/master/0771-jewels-and-stones) |
 | [0824-goat-latin](https://github.com/samlondhe0007/Leetcodes/tree/master/0824-goat-latin) |
+| [0844-backspace-string-compare](https://github.com/samlondhe0007/Leetcodes/tree/master/0844-backspace-string-compare) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/samlondhe0007/Leetcodes/tree/master/0884-uncommon-words-from-two-sentences) |
 ## Trie
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/samlondhe0007/Leetcodes/tree/master/0020-valid-parentheses) |
+| [0844-backspace-string-compare](https://github.com/samlondhe0007/Leetcodes/tree/master/0844-backspace-string-compare) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/samlondhe0007/Leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/samlondhe0007/Leetcodes/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/samlondhe0007/Leetcodes/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0844-backspace-string-compare](https://github.com/samlondhe0007/Leetcodes/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/samlondhe0007/Leetcodes/tree/master/0876-middle-of-the-linked-list) |
 ## String Matching
 |  |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/samlondhe0007/Leetcodes/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/samlondhe0007/Leetcodes/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/samlondhe0007/Leetcodes/tree/master/0657-robot-return-to-origin) |
+| [0844-backspace-string-compare](https://github.com/samlondhe0007/Leetcodes/tree/master/0844-backspace-string-compare) |
 ## Recursion
 |  |
 | ------- |

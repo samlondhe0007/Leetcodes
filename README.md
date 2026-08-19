@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/samlondhe0007/Leetcodes/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/samlondhe0007/Leetcodes/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0929-unique-email-addresses](https://github.com/samlondhe0007/Leetcodes/tree/master/0929-unique-email-addresses) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/samlondhe0007/Leetcodes/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1051-height-checker](https://github.com/samlondhe0007/Leetcodes/tree/master/1051-height-checker) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/samlondhe0007/Leetcodes/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/samlondhe0007/Leetcodes/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/samlondhe0007/Leetcodes/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/samlondhe0007/Leetcodes/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0929-unique-email-addresses](https://github.com/samlondhe0007/Leetcodes/tree/master/0929-unique-email-addresses) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/samlondhe0007/Leetcodes/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Math
 |  |
 | ------- |
@@ -277,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/samlondhe0007/Leetcodes/tree/master/0215-kth-largest-element-in-an-array) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/samlondhe0007/Leetcodes/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->

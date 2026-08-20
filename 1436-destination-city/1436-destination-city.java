@@ -1,21 +1,17 @@
 class Solution {
     public String destCity(List<List<String>> paths) {
 
-        HashSet<String> set = new HashSet<>();
+      HashSet <String > source = new HashSet <>();
 
-        for (List<String> path:paths){
-            set.add(path.get(0));
+      for (List<String> i:paths){
+           source.add(i.get(0));
+      }
 
+      for (List<String> i:paths){
+        if (!source.contains(i.get(1))){
+            return i.get(1);
         }
-
-        for (List<String> path :paths){
-            if (!set.contains(path.get(1))){
-                return path.get(1);
-
-            }
-
-        }
-        return"";
-        
+      }
+      return "";
     }
 }

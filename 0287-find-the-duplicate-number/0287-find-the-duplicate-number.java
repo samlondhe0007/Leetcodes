@@ -1,14 +1,23 @@
 class Solution {
     public int findDuplicate(int[] nums) {
 
-        HashSet <Integer> set = new HashSet <>();
-         
-         for (int i=0;i<nums.length;i++){
-            if (set.contains(nums[i])){
-                return nums[i];
+        int slow =nums[0];
+        int fast =nums[0];
+
+        while(true){
+            slow=nums[ slow];
+            fast=nums[nums[fast]];
+
+            if (slow==fast){
+                break;
             }
-            set.add(nums[i]);
-         }
-         return -1;
+        }
+
+        int slow2=nums[0];
+        while(slow!=slow2){
+            slow=nums[slow];
+            slow2=nums[slow2];
+        }
+        return slow;
     }
 }

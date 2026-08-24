@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/samlondhe0007/Leetcodes/tree/master/0929-unique-email-addresses) |
 | [0941-valid-mountain-array](https://github.com/samlondhe0007/Leetcodes/tree/master/0941-valid-mountain-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/samlondhe0007/Leetcodes/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1046-last-stone-weight](https://github.com/samlondhe0007/Leetcodes/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/samlondhe0007/Leetcodes/tree/master/1051-height-checker) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/samlondhe0007/Leetcodes/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1436-destination-city](https://github.com/samlondhe0007/Leetcodes/tree/master/1436-destination-city) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/samlondhe0007/Leetcodes/tree/master/0215-kth-largest-element-in-an-array) |
+| [1046-last-stone-weight](https://github.com/samlondhe0007/Leetcodes/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |

@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/samlondhe0007/Leetcodes/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/samlondhe0007/Leetcodes/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/samlondhe0007/Leetcodes/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/samlondhe0007/Leetcodes/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/samlondhe0007/Leetcodes/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/samlondhe0007/Leetcodes/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/samlondhe0007/Leetcodes/tree/master/0520-detect-capital) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/samlondhe0007/Leetcodes/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/samlondhe0007/Leetcodes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/samlondhe0007/Leetcodes/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/samlondhe0007/Leetcodes/tree/master/0394-decode-string) |
 | [0844-backspace-string-compare](https://github.com/samlondhe0007/Leetcodes/tree/master/0844-backspace-string-compare) |
 ## Bracket Sequences
 |  |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/samlondhe0007/Leetcodes/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/samlondhe0007/Leetcodes/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/samlondhe0007/Leetcodes/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/samlondhe0007/Leetcodes/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |

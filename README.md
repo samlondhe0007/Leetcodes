@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-goat-latin](https://github.com/samlondhe0007/Leetcodes/tree/master/0824-goat-latin) |
 | [0844-backspace-string-compare](https://github.com/samlondhe0007/Leetcodes/tree/master/0844-backspace-string-compare) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/samlondhe0007/Leetcodes/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/samlondhe0007/Leetcodes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0929-unique-email-addresses](https://github.com/samlondhe0007/Leetcodes/tree/master/0929-unique-email-addresses) |
 | [1436-destination-city](https://github.com/samlondhe0007/Leetcodes/tree/master/1436-destination-city) |
 | [1446-consecutive-characters](https://github.com/samlondhe0007/Leetcodes/tree/master/1446-consecutive-characters) |
@@ -137,10 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/samlondhe0007/Leetcodes/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/samlondhe0007/Leetcodes/tree/master/0394-decode-string) |
 | [0844-backspace-string-compare](https://github.com/samlondhe0007/Leetcodes/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/samlondhe0007/Leetcodes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/samlondhe0007/Leetcodes/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/samlondhe0007/Leetcodes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/samlondhe0007/Leetcodes/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/samlondhe0007/Leetcodes/tree/master/0334-increasing-triplet-subsequence) |
 | [0881-boats-to-save-people](https://github.com/samlondhe0007/Leetcodes/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/samlondhe0007/Leetcodes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |

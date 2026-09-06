@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/samlondhe0007/Leetcodes/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0929-unique-email-addresses](https://github.com/samlondhe0007/Leetcodes/tree/master/0929-unique-email-addresses) |
 | [1436-destination-city](https://github.com/samlondhe0007/Leetcodes/tree/master/1436-destination-city) |
+| [1446-consecutive-characters](https://github.com/samlondhe0007/Leetcodes/tree/master/1446-consecutive-characters) |
 ## Trie
 |  |
 | ------- |

@@ -10,25 +10,25 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        Stack <Integer> stack = new Stack<>();
+       List <Integer > list = new ArrayList<>();
 
-        ListNode dummy=new ListNode (0);
-        dummy.next=head;
-        ListNode pointer = dummy.next;
+       ListNode pointer = head;
 
-        while(pointer!=null){
-            stack.push(pointer.val);
-            pointer =pointer.next;
-        }
+       while(pointer!=null){
+        list.add(pointer.val);
+        pointer=pointer.next;
+       }
+       
+       int left=0;
+       int right=list.size()-1;
 
-        pointer = dummy.next ;
-
-        while(pointer!=null){
-            if (pointer.val!=stack.pop()){
-                return false;   
-            }
-            pointer=pointer.next;
-        }
-        return true;
+       while(left<right){
+         if (!list.get(left).equals(list.get(right))){
+            return false;
+         }
+         left++;
+         right--;
+       }
+       return true;
     }
 }

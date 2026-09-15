@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/samlondhe0007/Leetcodes/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/samlondhe0007/Leetcodes/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/samlondhe0007/Leetcodes/tree/master/0509-fibonacci-number) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/samlondhe0007/Leetcodes/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/samlondhe0007/Leetcodes/tree/master/0394-decode-string) |
 | [0844-backspace-string-compare](https://github.com/samlondhe0007/Leetcodes/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/samlondhe0007/Leetcodes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/samlondhe0007/Leetcodes/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/samlondhe0007/Leetcodes/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/samlondhe0007/Leetcodes/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/samlondhe0007/Leetcodes/tree/master/0876-middle-of-the-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/samlondhe0007/Leetcodes/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |

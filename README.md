@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/samlondhe0007/Leetcodes/tree/master/0929-unique-email-addresses) |
 | [1436-destination-city](https://github.com/samlondhe0007/Leetcodes/tree/master/1436-destination-city) |
 | [1446-consecutive-characters](https://github.com/samlondhe0007/Leetcodes/tree/master/1446-consecutive-characters) |
+| [3498-reverse-degree-of-a-string](https://github.com/samlondhe0007/Leetcodes/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/samlondhe0007/Leetcodes/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/samlondhe0007/Leetcodes/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/samlondhe0007/Leetcodes/tree/master/0844-backspace-string-compare) |
+| [3498-reverse-degree-of-a-string](https://github.com/samlondhe0007/Leetcodes/tree/master/3498-reverse-degree-of-a-string) |
 ## Recursion
 |  |
 | ------- |

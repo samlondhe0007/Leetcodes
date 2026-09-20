@@ -399,4 +399,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/samlondhe0007/Leetcodes/tree/master/0110-balanced-binary-tree) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/samlondhe0007/Leetcodes/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->

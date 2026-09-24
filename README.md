@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/samlondhe0007/Leetcodes/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/samlondhe0007/Leetcodes/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/samlondhe0007/Leetcodes/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/samlondhe0007/Leetcodes/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/samlondhe0007/Leetcodes/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/samlondhe0007/Leetcodes/tree/master/0509-fibonacci-number) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/samlondhe0007/Leetcodes/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/samlondhe0007/Leetcodes/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## String
 |  |
 | ------- |

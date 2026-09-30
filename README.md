@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/samlondhe0007/Leetcodes/tree/master/0929-unique-email-addresses) |
 | [0941-valid-mountain-array](https://github.com/samlondhe0007/Leetcodes/tree/master/0941-valid-mountain-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/samlondhe0007/Leetcodes/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1019-next-greater-node-in-linked-list](https://github.com/samlondhe0007/Leetcodes/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/samlondhe0007/Leetcodes/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/samlondhe0007/Leetcodes/tree/master/1051-height-checker) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/samlondhe0007/Leetcodes/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/samlondhe0007/Leetcodes/tree/master/0394-decode-string) |
 | [0844-backspace-string-compare](https://github.com/samlondhe0007/Leetcodes/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/samlondhe0007/Leetcodes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1019-next-greater-node-in-linked-list](https://github.com/samlondhe0007/Leetcodes/tree/master/1019-next-greater-node-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/samlondhe0007/Leetcodes/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Bracket Sequences
 |  |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/samlondhe0007/Leetcodes/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/samlondhe0007/Leetcodes/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/samlondhe0007/Leetcodes/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/samlondhe0007/Leetcodes/tree/master/1019-next-greater-node-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/samlondhe0007/Leetcodes/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/samlondhe0007/Leetcodes/tree/master/0042-trapping-rain-water) |
+| [1019-next-greater-node-in-linked-list](https://github.com/samlondhe0007/Leetcodes/tree/master/1019-next-greater-node-in-linked-list) |
 ## Timsort
 |  |
 | ------- |

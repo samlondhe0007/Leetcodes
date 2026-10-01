@@ -3,26 +3,24 @@ class Solution {
         Stack<Character>st=new  Stack();
         boolean isValid =true;
 
-        for (char ch :s.toCharArray()){
-            if (ch=='('){
-                st.push(')');
-            }
-            else if (ch=='{'){
-                st.push('}');
-            }
-            else if (ch=='['){
-                st.push(']');
-            }
-            else{
-                if (st.isEmpty()||ch!=st.pop()){
-                 isValid=false;
-                }
-            }
+       for (int i=0;i<s.length();i++){
+        char ch = s.charAt(i);
+        if (ch=='('){
+            st.push(')');
         }
-        isValid =isValid &&  st.isEmpty();
-        return isValid;
-
-
+        else if (ch=='{'){
+            st.push('}');
+        }
+        else if (ch =='['){
+            st.push(']');
+        }
+        else{
+            if (st.isEmpty() || st.pop() != ch) {
+            return false;
+             }
+         }
+       }
+       return st.isEmpty();
         
     }
 }

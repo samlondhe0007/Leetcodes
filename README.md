@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/samlondhe0007/Leetcodes/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/samlondhe0007/Leetcodes/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/samlondhe0007/Leetcodes/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/samlondhe0007/Leetcodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samlondhe0007/Leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/samlondhe0007/Leetcodes/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/samlondhe0007/Leetcodes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/samlondhe0007/Leetcodes/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/samlondhe0007/Leetcodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/samlondhe0007/Leetcodes/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/samlondhe0007/Leetcodes/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/samlondhe0007/Leetcodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/samlondhe0007/Leetcodes/tree/master/0110-balanced-binary-tree) |
 ## Depth-First Search
 |  |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/samlondhe0007/Leetcodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/samlondhe0007/Leetcodes/tree/master/0110-balanced-binary-tree) |
 ## Database
 |  |
@@ -419,4 +423,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/samlondhe0007/Leetcodes/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0584-find-customer-referee](https://github.com/samlondhe0007/Leetcodes/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/samlondhe0007/Leetcodes/tree/master/1757-recyclable-and-low-fat-products) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/samlondhe0007/Leetcodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->

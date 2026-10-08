@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/samlondhe0007/Leetcodes/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/samlondhe0007/Leetcodes/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/samlondhe0007/Leetcodes/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/samlondhe0007/Leetcodes/tree/master/1122-relative-sort-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/samlondhe0007/Leetcodes/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1436-destination-city](https://github.com/samlondhe0007/Leetcodes/tree/master/1436-destination-city) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/samlondhe0007/Leetcodes/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/samlondhe0007/Leetcodes/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0929-unique-email-addresses](https://github.com/samlondhe0007/Leetcodes/tree/master/0929-unique-email-addresses) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/samlondhe0007/Leetcodes/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1122-relative-sort-array](https://github.com/samlondhe0007/Leetcodes/tree/master/1122-relative-sort-array) |
 | [1436-destination-city](https://github.com/samlondhe0007/Leetcodes/tree/master/1436-destination-city) |
 ## Math
 |  |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/samlondhe0007/Leetcodes/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0881-boats-to-save-people](https://github.com/samlondhe0007/Leetcodes/tree/master/0881-boats-to-save-people) |
 | [1051-height-checker](https://github.com/samlondhe0007/Leetcodes/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/samlondhe0007/Leetcodes/tree/master/1122-relative-sort-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/samlondhe0007/Leetcodes/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/samlondhe0007/Leetcodes/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/samlondhe0007/Leetcodes/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -319,16 +322,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/samlondhe0007/Leetcodes/tree/master/0075-sort-colors) |
+| [1122-relative-sort-array](https://github.com/samlondhe0007/Leetcodes/tree/master/1122-relative-sort-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/samlondhe0007/Leetcodes/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Bubble Sort
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/samlondhe0007/Leetcodes/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/samlondhe0007/Leetcodes/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/samlondhe0007/Leetcodes/tree/master/1122-relative-sort-array) |
 ## Counting Sort
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/samlondhe0007/Leetcodes/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/samlondhe0007/Leetcodes/tree/master/1122-relative-sort-array) |
 ## Linked List
 |  |
 | ------- |

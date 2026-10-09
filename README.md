@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/samlondhe0007/Leetcodes/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/samlondhe0007/Leetcodes/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/samlondhe0007/Leetcodes/tree/master/0844-backspace-string-compare) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/samlondhe0007/Leetcodes/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3498-reverse-degree-of-a-string](https://github.com/samlondhe0007/Leetcodes/tree/master/3498-reverse-degree-of-a-string) |
 ## Recursion
 |  |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/samlondhe0007/Leetcodes/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/samlondhe0007/Leetcodes/tree/master/1019-next-greater-node-in-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/samlondhe0007/Leetcodes/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/samlondhe0007/Leetcodes/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/samlondhe0007/Leetcodes/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |

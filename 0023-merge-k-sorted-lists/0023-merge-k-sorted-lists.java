@@ -10,37 +10,33 @@
  */
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
-        if(lists.length==0){
-            return null;
+       TreeMap <Integer,Integer> map = new TreeMap <>();
+
+       if (lists!=null){
+        for (ListNode head :  lists){
+            ListNode current = head;
+            while (current !=null){
+                map.put(current.val,map.getOrDefault(current.val,0)+1);
+                current = current.next;
+            }
         }
+       }
 
-        else if (lists.length==1){
-            return lists[0];
-        }
+       ListNode dummy = new ListNode (-1);
+       ListNode current = dummy;
 
-        PriorityQueue <ListNode > queue = new PriorityQueue <>((a,b)->a.val-b.val);
+       for (Map.Entry<Integer,Integer>entry :map.entrySet()){
+            int val = entry.getKey();
+            int count = entry.getValue();
 
-        for (int i=0;i<lists.length;i++){
-            ListNode tempHead = lists[i];
-
-            while (tempHead!=null){
-                queue.add(tempHead);
-                tempHead=tempHead.next;
+            while (count >0){
+                current.next = new ListNode (val);
+                current = current.next;
+                count--;
             }
 
-        }
-
-        ListNode dummy = new ListNode (-1);
-        ListNode ans = dummy;
-
-        while(queue.size()>0){
-            ListNode node = queue.remove();
-            dummy.next=node;
-            dummy=dummy.next;
-        }
-        dummy.next=null;
-
-        return ans.next;
+       }
+       return dummy.next;
         
     }
 }

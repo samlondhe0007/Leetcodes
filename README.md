@@ -420,15 +420,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/samlondhe0007/Leetcodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/samlondhe0007/Leetcodes/tree/master/0110-balanced-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/samlondhe0007/Leetcodes/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/samlondhe0007/Leetcodes/tree/master/0110-balanced-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/samlondhe0007/Leetcodes/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/samlondhe0007/Leetcodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/samlondhe0007/Leetcodes/tree/master/0110-balanced-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/samlondhe0007/Leetcodes/tree/master/0965-univalued-binary-tree) |
 ## Database
 |  |
 | ------- |
@@ -448,4 +451,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/samlondhe0007/Leetcodes/tree/master/0023-merge-k-sorted-lists) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0965-univalued-binary-tree](https://github.com/samlondhe0007/Leetcodes/tree/master/0965-univalued-binary-tree) |
 <!---LeetCode Topics End-->
